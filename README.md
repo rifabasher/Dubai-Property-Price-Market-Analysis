@@ -17,6 +17,8 @@ Dubai Pulse - Residential Properties Sale Index (Dubai Land Department)
 - 'yearly_avg_index_query.sql' - SQL query used to calculate yearly average price index
 - 'average index per year.db' - SQLite database containing the cleaned dataset
 - 'yearly_avg_index.csv' - exported query results
+- 'dashboard_screenshot.png' - preview of the report
+- 'market trend analysis.pbix' - completed dashboard
 
 ## Question
 As an investor comparing the prices and market for different property types between flats and villas in Dubai. Which property type has appreciated more over time and how has that gap changed year to year?
