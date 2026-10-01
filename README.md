@@ -2,6 +2,7 @@
 A Power BI dashboard analyzing residential property price trends in Dubai, using real government open data.
 
 **Status: Complete**
+<img width="1537" height="861" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/849828fa-446f-4b3d-8f59-6fe0d7207ece" />
 
 ## Data Source
 Dubai Pulse - Residential Properties Sale Index (Dubai Land Department)
