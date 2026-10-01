@@ -2,6 +2,7 @@
 A Power BI dashboard analyzing residential property price trends in Dubai, using real government open data.
 
 **Status: Complete**
+
 <img width="1537" height="861" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/849828fa-446f-4b3d-8f59-6fe0d7207ece" />
 
 ## Data Source
@@ -12,7 +13,7 @@ Dubai Pulse - Residential Properties Sale Index (Dubai Land Department)
 - Wrote SQL query (SQLite) to calculate yearly average price index per property type
 - Built a data model with 3 tables: cleaned price index data, a property type lookup and a SQL-derived yearly summary table
 - Using DAX measures to calculate year-over-year trend analysis
-- Dashboard visuals in progress
+- Designed an interactive dashboard with line charts, bar charts, slicers and insight callouts
   
 ## Files in this repository
 - 'yearly_avg_index_query.sql' - SQL query used to calculate yearly average price index
